@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **C# system utility , c# Web Api**
 
-- 💬 <a href="https://linkedin.com/in/maftooh/project" target="blank"> You can view the project </a>
+- 💬 <a href="/project" target="blank"> You can view the project </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
